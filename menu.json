@@ -1,0 +1,20 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Суши",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend turpis vel arcu interdum lobortis quis sed erat. Vivamus scelerisque dolor et metus dapibus non lacinia massa facilisis. Sed et velit in ante iaculis dictum euismod nec nisl. Duis et turpis erat, vel volutpat dolor. Proin convallis, nulla et dignissim viverra, orci libero pulvinar quam, ac condimentum dolor tellus sed purus. Donec suscipit justo at tortor venenatis ut sollicitudin ante consectetur. Nam tristique adipiscing ultrices. Pellentesque ut tortor massa. Donec pharetra malesuada ligula nec posuere. Suspendisse interdum, orci sit amet facilisis porta, turpis mauris posuere tellus, eget sodales mauris lectus non odio. Sed accumsan malesuada lorem at dignissim. Morbi sed eleifend libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis laoreet libero eget dolor posuere id adipiscing mi consectetur. Donec sapien sapien, malesuada et eleifend ac, luctus a libero. Cras ultricies lorem a lectus feugiat dictum.",
+            "photo": 0,
+            "price": 200,
+        },
+        {
+            "id": 2,
+            "category": 1,
+            "name": "Ещё одни Суши",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquet diam ac libero molestie eu vestibulum massa pharetra. Aenean bibendum, nisi non varius pretium, tortor enim mattis nisl, at dignissim odio purus pulvinar odio. Pellentesque venenatis iaculis egestas. Sed leo magna, convallis at accumsan non, luctus eu libero. Suspendisse potenti. Nullam vitae metus sed eros suscipit luctus non id est. Donec dapibus hendrerit interdum. Donec turpis ligula, bibendum sit amet pulvinar eu, ullamcorper placerat ante. Mauris luctus posuere nisi. Nullam pellentesque lacinia elit a vehicula. Proin viverra erat sit amet magna auctor non euismod libero semper. Curabitur ac felis et nulla accumsan dapibus. Suspendisse nec orci ultricies lorem placerat dictum sit amet venenatis tellus. Aenean volutpat, purus ac tincidunt dictum, nunc libero molestie neque, eget gravida lorem tellus ut urna. Ut iaculis posuere dolor, id aliquam dui ultrices in.",
+            "photo": 0,
+            "price": 250,
+        }
+    ]
+}
